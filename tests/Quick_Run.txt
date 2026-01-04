@@ -1,0 +1,8 @@
+"""
+Run it (quick test)
+```bash
+python -m password_manager.cli init
+python -m password_manager.cli add github daniel@example.com
+python -m password_manager.cli list
+python -m password_manager.cli get github
+"""
